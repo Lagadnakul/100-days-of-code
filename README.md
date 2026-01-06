@@ -16,3 +16,13 @@ This repository is meant to help me stay consistent, disciplined, and improve my
 - Focus on understanding, not just completing tasks
 - Write daily progress honestly
 - Improve step by step without pressure
+
+
+# Daily Progress Log
+
+### Day 1
+- Learned basics of time and space complexity
+- Understood Big O notation and common complexities
+- Studied best, worst, and average case scenarios
+- Solved basic array problems (find max, reverse array)
+- Analyzed time and space complexity for each solution
